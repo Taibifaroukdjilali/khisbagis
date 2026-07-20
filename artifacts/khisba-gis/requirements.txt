@@ -1,0 +1,8 @@
+streamlit==1.39.0
+earthengine-api==0.1.370
+pandas
+numpy
+plotly
+requests
+ctransformers
+protobuf
